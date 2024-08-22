@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="Página-1" id="n3_ngQ1i9GHtwO3-l_lH">
-    <mxGraphModel dx="835" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="911" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
         <mxCell id="K4AcMpvR-q-yo40PjBH1-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="K4AcMpvR-q-yo40PjBH1-145" target="K4AcMpvR-q-yo40PjBH1-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K4AcMpvR-q-yo40PjBH1-145" value="Possui" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="K4AcMpvR-q-yo40PjBH1-145" value="Associa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="560" y="250" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K4AcMpvR-q-yo40PjBH1-148" value="&lt;sup style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(1,1)&lt;/font&gt;&lt;/sup&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -190,7 +190,7 @@
         <mxCell id="K4AcMpvR-q-yo40PjBH1-183" value="&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(1,n)&lt;/font&gt;&lt;/sub&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="250" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K4AcMpvR-q-yo40PjBH1-184" value="Cliente_ingresso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="K4AcMpvR-q-yo40PjBH1-184" value="Cliente_produto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="145" y="130" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K4AcMpvR-q-yo40PjBH1-186" value="Filme_genero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -211,7 +211,7 @@
         <mxCell id="K4AcMpvR-q-yo40PjBH1-196" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K4AcMpvR-q-yo40PjBH1-189" target="K4AcMpvR-q-yo40PjBH1-190">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K4AcMpvR-q-yo40PjBH1-189" value="Comidas" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="K4AcMpvR-q-yo40PjBH1-189" value="Comida" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K4AcMpvR-q-yo40PjBH1-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="K4AcMpvR-q-yo40PjBH1-190" target="K4AcMpvR-q-yo40PjBH1-187">
