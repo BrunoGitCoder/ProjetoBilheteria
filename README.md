@@ -4,16 +4,18 @@
   <a href="https://www.figma.com/design/V4RhBN3K4GfRbJSls3Xcdl/Untitled?node-id=0-1&t=QMqTKKcGXasHVvPC-1">Figma Link</a>
   <p>
     Splash Page
-    <img src="splash-page.png">
+    <img src="img/splash-page.png">
     Login Page
-    <img src="login-page.png">
+    <img src="img/login-page.png">
     Sign Up Page
-    <img src="signup-page.png">
+    <img src="img/signup-page.png">
     Main Page
-    <img src="main-page.png">
+    <img src="img/main-page.png">
   </p>
   <hr>
 </div>
 <p>Entidades do projeto.</p>
 <p><a href="Bilheteria.drawio" download="Bilheteria.drawio">Baixar Arquivo Draw.io</a></p>
-<img src="Entity.png">
+<img src="img/Entity.png">
+<p>Diagrama Conceitual</p>
+<img src="img/DiagramaConceitual.png">
