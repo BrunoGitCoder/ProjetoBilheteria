@@ -16,6 +16,6 @@
 </div>
 <p>Entidades do projeto.</p>
 <p><a href="Bilheteria.drawio" download="Bilheteria.drawio">Baixar Arquivo Draw.io</a></p>
-<img src="img/Entity.png" style="maring: auto;">
+<img src="img/Entity.png" style="margin-left: 50%; transform: translateX(-50%);">
 <p>Diagrama Conceitual</p>
-<img src="img/DiagramaConceitual.png style="maring: auto;">
+<img src="img/DiagramaConceitual.png" style="margin-left: 50%; transform: translateX(-50%);">
